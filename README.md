@@ -7,6 +7,7 @@ A collection of original assignments and projects designed and authored as a tea
 - [`CMPE 230 - Systems Programming/`](CMPE%20230%20-%20Systems%20Programming) — *SpiresLayer*: a C command-line interpreter simulating the bookkeeping of a roguelike-deckbuilder run.
 - [`CMPE 250 - Data Structures & Algorithms/`](CMPE%20250%20-%20Data%20Structures%20%26%20Algorithms) — *MatrixNet*: a graph-based simulation engine for routing, connectivity, and vulnerability analysis over a covert network.
 - [`CMPE 343 - Probability & Statistics/`](CMPE%20343%20-%20Probability%20%26%20Statistics) — *Tunes Duel*: a four-part probabilistic simulation project built around a music recommendation system.
+- [`CMPE 462 - Machine Learning/`](CMPE%20462%20-%20Machine%20Learning) — *Backpack Inventory*: a group project on supervised and unsupervised learning over a class-collected multimodal dataset of real and synthetic school items.
 
 Each course folder has its own README with a full description of the assignment/project, what students were asked to do, and relevant course context.
 
